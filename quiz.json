@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of classic films with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who directed 'Psycho'?",
+      "answers": ["Hitch", "Kubrick", "Welles"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who starred in 'Casablanca'?",
+      "answers": ["Bogart", "Stewart", "Grant"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which film is about a giant ape?",
+      "answers": ["Kong", "Jaws", "Gump"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who played Scarlett in 'Gone with the Wind'?",
+      "answers": ["Leigh", "Hepburn", "Kelly"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was 'The Godfather' released?",
+      "answers": ["1972", "1968", "1980"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the main character in 'Vertigo'?",
+      "answers": ["Scottie", "Rick", "George"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is set in Oz?",
+      "answers": ["Wizard", "Casablanca", "Metropolis"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who played Indiana Jones?",
+      "answers": ["Ford", "Connery", "Eastwood"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the famous line in 'Jaws'?",
+      "answers": ["Bigger", "Shark", "Run"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film features 'Rosebud'?",
+      "answers": ["Kane", "Sunset", "Rashomon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed '2001: A Space Odyssey'?",
+      "answers": ["Kubrick", "Hitch", "Ford"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is set in a hotel?",
+      "answers": ["Shining", "Godfather", "Gump"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who starred in 'Some Like It Hot'?",
+      "answers": ["Monroe", "Leigh", "Kelly"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is about a boxer?",
+      "answers": ["Rocky", "Raging", "Citizen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed 'Schindler's List'?",
+      "answers": ["Spielberg", "Kubrick", "Welles"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was 'Citizen Kane' released?",
+      "answers": ["1941", "1950", "1939"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who played James Bond in 'Goldfinger'?",
+      "answers": ["Connery", "Moore", "Craig"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film features the character 'Rhett Butler'?",
+      "answers": ["Gone", "Sunset", "Metropolis"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who starred in 'Rear Window'?",
+      "answers": ["Stewart", "Grant", "Wayne"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is set during WWII?",
+      "answers": ["Bridge", "Vertigo", "Rocky"],
       "correctAnswerIndex": 0
     }
   ]
